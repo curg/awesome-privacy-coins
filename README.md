@@ -28,6 +28,8 @@
 
 # Zero Knowledge Proofs (ZKPs)
 
+[Awesome zero knowledge proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs/blob/master/README.md)
+
 ## Bulletproofs
 
 ### Brief description about Bulletproofs
