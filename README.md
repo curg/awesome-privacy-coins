@@ -1,2 +1,2 @@
-# awesome-privacy-coins
+# Awesome Privacy Protection Systems in Blockchain
 Privacy Protection Tech. in Blockchain
