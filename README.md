@@ -46,7 +46,7 @@ TBA
 
 # MimbleWimble
 
-TBA
+[MimbleWimble Transaction](https://scalingbitcoin.org/papers/mimblewimble.txt)
 
 # ZoKrates
 
