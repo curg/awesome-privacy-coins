@@ -48,6 +48,18 @@ TBA
 
 [MimbleWimble Transaction](https://scalingbitcoin.org/papers/mimblewimble.txt)
 
+# Ring Signature
+
+TBA
+
+## Ring Confidential Transaction
+
+TBA
+
+# Hwak
+
+TBA
+
 # ZoKrates
 
 [ZoKrates](https://zokrates.github.io/gettingstarted.html) is a convenient toolbox for zkSNARKs on Ethereum.
