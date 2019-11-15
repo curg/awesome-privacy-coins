@@ -7,20 +7,16 @@
 # Contents
 
 * Introduction
-
 * Zero Knowledge Proofs (ZKPs)
   * zkSNARKs
   * Bulletproofs
   * AZTEC Protocol
-
 * MimbleWimble
-
 * ZoKrates
   * zkERC20
-  
 * Ethereum 9 3/4
-
 * Ethereum Istanbul Hard Fork
+* Ring Signatures
 
 # Introduction
 
@@ -35,6 +31,8 @@
 ### Brief description about Bulletproofs
 
 Adam Gibson's [From Zero (knowledge) to Bulletproofs](https://github.com/AdamISZ/from0k2bp/blob/master/from0k2bp.pdf).
+
+[Bulletproofs: Short Proofs for Confidential Transactions and More](https://eprint.iacr.org/2017/1066.pdf)
 
 ## zkSNARKs
 
@@ -79,3 +77,23 @@ zkDAI is private DAI transactions on Ethereum.
 TBA
 
 Refer to Ethereum [Wiki](https://eth.wiki/en/roadmap/istanbul)
+
+# Ring Signatures
+
+[What is Ring Signature ?](https://en.wikipedia.org/wiki/Ring_signature)
+
+[Ring Signatures: Stronger Definitions, and Constructions without Random Oracles](https://eprint.iacr.org/2005/304.pdf)
+
+## Upgrade to more efficiently
+
+### Ring Confidential Transaction (RingCT)
+
+[Ring Confidential Transactions](https://eprint.iacr.org/2015/1098.pdf)
+
+### Ring Confidential Transaction 2.0 (RingCT 2.0)
+
+[RingCT 2.0: A Compact Accumulator-Based (Linkable Ring Signature) Protocol for Blockchain Cryptocurrency Monero](https://eprint.iacr.org/2017/921.pdf)
+
+### Ring Confidential Transaction (RingCT 3.0)
+
+[RingCT 3.0 for Blockchain Confidential Transaction: Shorter Size and Stronger Security](https://eprint.iacr.org/2019/508.pdf)
