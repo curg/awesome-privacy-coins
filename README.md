@@ -1,3 +1,7 @@
+# Work in Progress
+
+DO NOT USE THE FOLLOWING INFORMATION YET.
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 # Awesome Privacy Protection Systems in Blockchain
@@ -18,6 +22,7 @@
 * Ethereum Istanbul Hard Fork
 * Ring Signatures
 * Sonic
+* Hwak
 
 # Introduction
 
@@ -46,18 +51,6 @@ TBA
 # MimbleWimble
 
 [MimbleWimble Transaction](https://scalingbitcoin.org/papers/mimblewimble.txt)
-
-# Ring Signature
-
-TBA
-
-## Ring Confidential Transaction
-
-TBA
-
-# Hwak
-
-TBA
 
 # ZoKrates
 
@@ -123,3 +116,8 @@ Refer to Ethereum [Wiki](https://eth.wiki/en/roadmap/istanbul)
 
 [curg/Sonic](<https://github.com/curg/privacy-coins/blob/master/Sonic.md>)
 
+# Hwak
+
+Privacy Preserving on Smart Contracts
+
+[TBA](https://z.cash/wp-content/uploads/static-og/static/R3_Confidentiality_and_Privacy_Report.pdf)
