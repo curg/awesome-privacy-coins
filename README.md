@@ -45,6 +45,18 @@ TBA
 
 # MimbleWimble
 
+[MimbleWimble Transaction](https://scalingbitcoin.org/papers/mimblewimble.txt)
+
+# Ring Signature
+
+TBA
+
+## Ring Confidential Transaction
+
+TBA
+
+# Hwak
+
 TBA
 
 # ZoKrates
