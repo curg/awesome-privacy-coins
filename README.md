@@ -116,7 +116,7 @@ Refer to Ethereum [Wiki](https://eth.wiki/en/roadmap/istanbul)
 
 [curg/Sonic](<https://github.com/curg/privacy-coins/blob/master/Sonic.md>)
 
-# Hwak
+# Hawk
 
 Privacy Preserving on Smart Contracts
 
