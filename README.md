@@ -17,6 +17,7 @@
 * Ethereum 9 3/4
 * Ethereum Istanbul Hard Fork
 * Ring Signatures
+* Sonic
 
 # Introduction
 
@@ -97,3 +98,16 @@ Refer to Ethereum [Wiki](https://eth.wiki/en/roadmap/istanbul)
 ### Ring Confidential Transaction (RingCT 3.0)
 
 [RingCT 3.0 for Blockchain Confidential Transaction: Shorter Size and Stronger Security](https://eprint.iacr.org/2019/508.pdf)
+
+# Sonic
+
+[Sonic: Zero-Knowledge SNARKs from Linear-Size Universal and Updatable Structured Reference Strings](https://smeiklej.com/files/ccs19.pdf)
+
+## Introducing Sonic
+
+[Introducing Sonic: A Practical zk-SNARK with a Nearly Trustless Setup](<https://www.benthamsgaze.org/2019/02/07/introducing-sonic-a-practical-zk-snark-with-a-nearly-trustless-setup/>)
+
+## Translated
+
+[curg/Sonic](<https://github.com/curg/privacy-coins/blob/master/Sonic.md>)
+
