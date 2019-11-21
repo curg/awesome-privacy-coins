@@ -127,4 +127,5 @@ Privacy Preserving on Smart Contracts
 [TBA](https://z.cash/wp-content/uploads/static-og/static/R3_Confidentiality_and_Privacy_Report.pdf)
 
 
+# Zether
 
