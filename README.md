@@ -126,24 +126,5 @@ Privacy Preserving on Smart Contracts
 
 [TBA](https://z.cash/wp-content/uploads/static-og/static/R3_Confidentiality_and_Privacy_Report.pdf)
 
-# Zether
 
-Privacy in smert contract using sigma bullets
-[Zether:Towards Privacy in a Smart Contract World](<https://crypto.stanford.edu/~buenz/papers/zether.pdf>)
-
-## Overview of Zether
-
-[Overview](<https://kaleido.io/zero-knowledge-token-transfer-service-an-overview/>)
-
-## Anonymous Zether
-
-[Anonymous Zether](<https://github.com/jpmorganchase/anonymous-zether>)
-
-## Account-based confidential Transfer in Ethereum
-
-[Privacy features](<https://www.vakt.com/jpmorgan-adds-privacy-features-to-ethereum-based-quorum-blockchain/>)
-
-## Non-interactive zero-knowledge proof
-
-[Non-interactive zero-knowledge proof](<https://en.wikipedia.org/wiki/Non-interactive_zero-knowledge_proof>)
 
