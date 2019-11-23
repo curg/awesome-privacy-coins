@@ -24,10 +24,11 @@ DO NOT USE THE FOLLOWING INFORMATION YET.
 * Sonic
 * Hwak
 * Zether
-  * Anonymous Zether
-  * Account-based confidential Transfer in Ethereum
-  * non-interactive zero-knowledge proof
-  * Overview of Zether
+  * Zether Overview
+  * Anoymity in account-based blockchains
+  * Privacy features 
+  * Non-interactive Zero knowledge proofs
+
 # Introduction
 
 [Privacy and Blockchain](https://en.wikipedia.org/wiki/Privacy_and_blockchain)
@@ -129,3 +130,31 @@ zk-snarks의 trusted setup size를 줄이기 위한 솔루션.
 Privacy Preserving on Smart Contracts
 
 [TBA](https://z.cash/wp-content/uploads/static-og/static/R3_Confidentiality_and_Privacy_Report.pdf)
+
+# Zether
+
+[Zether](https://crypto.stanford.edu/~buenz/papers/zether.pdf)
+
+[anonymous-zehter github](https://github.com/jpmorganchase/anonymous-zether/blob/master/README.md)
+
+### Zether overview
+
+[Overview](https://kaleido.io/zero-knowledge-token-transfer-service-an-overview/)
+
+### Anoymity in account-based blockchains
+
+[Confidential transactions](https://blog.goodaudience.com/monero-confidential-transactions-or-send-i-know-not-what-to-someone-i-know-not-whither-337f20f0d64e)
+
+[Anonymity in account-based blockchains](https://medium.com/@exantech/about-anonymity-in-account-based-blockchains-22a1ce5b0c7b)
+
+### Privacy features 
+
+[JPMorgan Chase's blockchain](https://www.vakt.com/jpmorgan-adds-privacy-features-to-ethereum-based-quorum-blockchain/)
+
+### Non-interactive Zero knowledge proofs
+
+[Non-interactive zero-knowledge proofs](https://en.wikipedia.org/wiki/Non-interactive_zero-knowledge_proof)
+
+[Non-Interactive Zero-Knowledge Proofs for Composite Statements](https://eprint.iacr.org/2018/557.pdf)
+
+[Interactive and Non-Interactive Proofs of Knowledge](https://tel.archives-ouvertes.fr/tel-00768787/file/thesis.pdf)
