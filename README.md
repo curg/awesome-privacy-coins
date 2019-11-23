@@ -134,12 +134,12 @@ Privacy Preserving on Smart Contracts
 # Zether
 
 [Zether](https://crypto.stanford.edu/~buenz/papers/zether.pdf)
+* Account-based  confidential mechanism 
+* Using Σ-Bullets, an improvement of the existing zeroknowledge proof system, Bulletproofs.
 
 [anonymous-zehter github](https://github.com/jpmorganchase/anonymous-zether/blob/master/README.md)
+* A private payment system, an anonymous extension of Bünz, Agrawal, Zamani and Boneh's Zether protocol.
 
-### Zether overview
-
-[Overview](https://kaleido.io/zero-knowledge-token-transfer-service-an-overview/)
 
 ### Anoymity in account-based blockchains
 
