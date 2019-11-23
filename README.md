@@ -28,6 +28,7 @@ DO NOT USE THE FOLLOWING INFORMATION YET.
   * Account-based confidential Transfer in Ethereum
   * non-interactive zero-knowledge proof
   * Overview of Zether
+
 # Introduction
 
 [Privacy and Blockchain](https://en.wikipedia.org/wiki/Privacy_and_blockchain)
@@ -58,15 +59,15 @@ TBA
 
 # ZoKrates
 
-[ZoKrates](https://zokrates.github.io/gettingstarted.html) is a convenient toolbox for zkSNARKs on Ethereum.
+[ZoKrates](https://zokrates.github.io/gettingstarted.html) is a convenient toolbox for zkSNARKs on Ethereum. The ZoKrates converts written programs into verifiable computations and proofs.
 
 ## zkDAI
 
-zkDAI is private DAI transactions on Ethereum.
+[zkDAI](https://github.com/atvanguard/ethsingapore-zk-dai) is private DAI transactions on Ethereum inspired from the zerocash.
+
+See the detailed descriptions as follows: 
 
 [Description](https://medium.com/@atvanguard/zkdai-private-dai-transactions-on-ethereum-using-zk-snarks-9e3ef4676e22)
-
-[Github](https://github.com/atvanguard/ethsingapore-zk-dai)
 
 ## zkERC20
 
