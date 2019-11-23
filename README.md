@@ -114,6 +114,8 @@ Refer to Ethereum [Wiki](https://eth.wiki/en/roadmap/istanbul)
 
 ## Introducing Sonic
 
+zk-snarks의 trusted setup size를 줄이기 위한 솔루션.
+(trusted setup: 증명자와 검증자 간 신뢰할수 있는 공개 매개변수 초기설정)
 [Introducing Sonic: A Practical zk-SNARK with a Nearly Trustless Setup](<https://www.benthamsgaze.org/2019/02/07/introducing-sonic-a-practical-zk-snark-with-a-nearly-trustless-setup/>)
 
 ## Translated
